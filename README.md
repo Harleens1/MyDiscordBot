@@ -1,3 +1,3 @@
 # MyDiscordBot 
 
-Discord bot for my server, update frequently
+Discord bot for my server, updated frequently
