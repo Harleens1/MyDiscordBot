@@ -1,3 +1,3 @@
 # MyDiscordBot 
 
-Discord bot for my server, updated frequently
+Discord bot for my server, out of service right now
